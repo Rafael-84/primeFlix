@@ -1,4 +1,3 @@
-About
 Página Web que exibe os 16 próximos filmes em cartaz, projeto foi realizado através do curo FullStack Pro do Sujeito Programador do Matheu Fraga.
 Foram utilzadas as seguintes tecnologias: React, API do MovieDb, react toastify, vite, responsividade css.
 
