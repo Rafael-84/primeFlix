@@ -1,5 +1,24 @@
-Página Web que exibe os 16 próximos filmes em cartaz, projeto foi realizado através do curo FullStack Pro do Sujeito Programador do Matheu Fraga.
-Foram utilzadas as seguintes tecnologias: React, API do MovieDb, react toastify, vite, responsividade css.
+# 🎬 Página Web de Filmes  
+
+Aplicação desenvolvida durante o curso **FullStack Pro – Sujeito Programador (Matheus Fraga)**.  
+O projeto exibe os **16 próximos lançamentos em cartaz**, com foco em **usabilidade** e **performance**.  
+
+## ✨ Funcionalidades  
+- Salvar filmes na página de favoritos  
+- Visualizar descrição completa  
+- Assistir ao trailer do filme  
+
+## 🔧 Tecnologias utilizadas  
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [The Movie Database API](https://www.themoviedb.org/documentation/api)  
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)  
+- CSS Responsivo  
+
+## 💡 Objetivo  
+Praticar conceitos de **desenvolvimento FullStack**, aplicando boas práticas de **front-end moderno** com integração de API e experiência do usuário.  
+
+
 
 Para utilizar o projeto faça o download dos arquivos do projeto ou utilize o git clone seguido da url:
 Crie uma conta no site: https://www.themoviedb.org/   , depois de criada, adquira uma chave API.
